@@ -1,0 +1,10 @@
+C:\Users\barte\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\barte\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\barte\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\barte\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+C:\Users\barte\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.FormKalkulator.resources
+C:\Users\barte\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\barte\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+C:\Users\barte\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\barte\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
